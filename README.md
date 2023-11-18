@@ -1,6 +1,8 @@
 # Game Theory
 
-This course is from the final semester of my studies. It covers the following topics:
+This course is from the final semester of my studies. It included two projects, which accounted for a total of 2.5 points out of 10, with 0.5 points considered as a bonus. Additionally, there was an optional presentation on a paper of our choice within the domain of Game Theory.
+
+It covers the following topics:
 
 ## Probability:
 
